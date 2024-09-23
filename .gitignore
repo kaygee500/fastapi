@@ -3,3 +3,4 @@
 /.vscode
 /app/.env
 /app/routers/__pycache__
+/app/__pycache__
