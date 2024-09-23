@@ -1,6 +1,4 @@
-/__pycache__
-/.venv
-/.vscode
-/app/.env
-/app/routers/__pycache__
-/app/__pycache__
+__pycache__
+.venv
+.vscode
+.env
