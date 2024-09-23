@@ -1,0 +1,5 @@
+/__pycache__
+/.venv
+/.vscode
+/app/.env
+/app/routers/__pycache__
